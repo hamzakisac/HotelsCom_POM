@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27479" started-at="2020-08-05T06:26:14 CDT" finished-at="2020-08-05T06:26:41 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27479" started-at="2020-08-05T06:26:14 CDT" finished-at="2020-08-05T06:26:41 CDT">
+      <class name="com.qa.hotelscom.test.FiveStarsTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.qa.hotelscom.test.FiveStarsTest@51cdd8a]" name="setUp" is-config="true" duration-ms="15068" started-at="2020-08-05T06:26:14 CDT" finished-at="2020-08-05T06:26:29 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getPageTitleTest()[pri:1, instance:com.qa.hotelscom.test.FiveStarsTest@51cdd8a]" name="getPageTitleTest" duration-ms="68" started-at="2020-08-05T06:26:29 CDT" description="---gets WebPage&#039;s title" finished-at="2020-08-05T06:26:29 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPageTitleTest -->
+        <test-method status="PASS" signature="setStarsAndDistanceTest()[pri:2, instance:com.qa.hotelscom.test.FiveStarsTest@51cdd8a]" name="setStarsAndDistanceTest" duration-ms="2871" started-at="2020-08-05T06:26:29 CDT" description="Selects 5 stars and distance as City Center" finished-at="2020-08-05T06:26:32 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setStarsAndDistanceTest -->
+        <test-method status="PASS" signature="scrollDownTest()[pri:3, instance:com.qa.hotelscom.test.FiveStarsTest@51cdd8a]" name="scrollDownTest" duration-ms="9051" started-at="2020-08-05T06:26:32 CDT" description="scroll the page down the buttom" finished-at="2020-08-05T06:26:41 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollDownTest -->
+        <test-method status="PASS" signature="listHotelsTest()[pri:4, instance:com.qa.hotelscom.test.FiveStarsTest@51cdd8a]" name="listHotelsTest" duration-ms="258" started-at="2020-08-05T06:26:41 CDT" description="Lists all the Hotels which are close to the center within 10.0 miles" finished-at="2020-08-05T06:26:41 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- listHotelsTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.hotelscom.test.FiveStarsTest@51cdd8a]" name="tearDown" is-config="true" duration-ms="125" started-at="2020-08-05T06:26:41 CDT" finished-at="2020-08-05T06:26:41 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.hotelscom.test.FiveStarsTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
